@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">魔兽塔防</string>
+    <string name="hello_world">魔兽塔防</string>
+    <string name="menu_settings">魔兽塔防</string>
+    <string name="title_activity_main">魔兽塔防</string>
+
+</resources>
